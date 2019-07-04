@@ -1,0 +1,15 @@
+---
+description: Add support for XinaBox CW02 (ESP32)
+fullname: board.zerynth.xinabox_esp32
+info:
+    board: XinaBox CW02 (ESP32)
+    chip_manufacturer: Espressif
+    device: esp32
+    family_type: Xtensa lx6
+keywords:
+- xinabox
+- cw02
+- esp32
+- board
+title: XinaBox CW02 (ESP32) Support Package
+...
