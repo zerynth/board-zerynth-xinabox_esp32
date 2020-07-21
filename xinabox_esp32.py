@@ -36,6 +36,8 @@ class XinaBox_ESP32(Board):
         time.sleep(0.05)
         ch.setDTR(False)  # IO0=HIGH, done
         ch.close()
+        time.sleep(0.5)
+
 
 
     def burn(self,bin,outfn=None):
